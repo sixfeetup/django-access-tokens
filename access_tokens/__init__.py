@@ -11,6 +11,6 @@ Contributors
 
 - Dave Hall <http://blog.etianen.com/>
 """
+import pkg_resources
 
-
-__version__ = (0, 9, 2)
+__version__ = pkg_resources.get_distribution("django-access-tokens").version

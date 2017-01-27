@@ -1,14 +1,11 @@
 from distutils.core import setup
 
-from access_tokens import __version__
-
-
-version_str = ".".join(str(n) for n in __version__)
+version = '0.9.2.post0'
 
 
 setup(
     name = "django-access-tokens",
-    version = version_str,
+    version = version,
     license = "BSD",
     description = "A Django app for for generating secure scoped access tokens.",
     author = "Dave Hall",

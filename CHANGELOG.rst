@@ -2,8 +2,8 @@ django-access-tokens changelog
 ==============================
 
 
-0.9.2 - 06/11/2013
-------------------
+0.9.2.post0 (2017-01-27)
+------------------------
 
 **SECURITY UPDATE:** Fixing scoping of permissions where the token provides a
 smaller subset of the required permissions. As an extreme case, an access token
