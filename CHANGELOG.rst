@@ -2,6 +2,12 @@ django-access-tokens changelog
 ==============================
 
 
+0.9.2.post1 (unreleased)
+------------------------
+
+- Nothing changed yet.
+
+
 0.9.2.post0 (2017-01-27)
 ------------------------
 
